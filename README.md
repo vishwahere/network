@@ -34,10 +34,3 @@ Following this a train connection between 2 cities is represented as
 |A|B|5|
 
 meaning there is a Train connection between cities A and B with distance 5
-
-Once the setup is done, each test input given in original coding assignment maps to one when: block
-ex: if problem statement states The distance of the route then there is corresponding when clause exactly matching this.
-
-
-##Test results
-The tests are all 100% passing. Check the directory /build/reports/tests and file index.html which has the details of each test run
