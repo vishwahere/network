@@ -2,9 +2,13 @@
 
 
 This is the solution for rail network challenge where routes are directed (i.e A->B doesn't imply B->A). There are algorithms for below queries
+
 1. Shotest path between 2 cities (including roundtrip)
+
 2. Number of paths/trips between 2 cities with distance less than given distance (distance = weight)
+
 3. Number of paths/trips between 2 cities with maximum stops
+
 4. Number of paths/trips between 2 cities with exact number of stops
 
 All above network related queries also handles cases where a given city is traversed more than once. For example a query can be shortest path between City A and City A.
