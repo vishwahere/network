@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is the solution for Problem one: Trains.
+This is the solution for rail network challenge. Finding shortest path, finding number of trips etc.
 
 ##Details
 Programming language: Java using version 1.8.0_51
@@ -15,7 +15,7 @@ For finding number of trips customized dfs is used. Each time a path is created 
 to avoid path explosion since we want to allow traversing through a city multiple times.
 
 ## Command to run test
-./gradlew test //Runs all the tests including jbehave
+./gradlew test
 
 ## Adding jbehave test
 Open the text file at location: com/coding/assignment/train_network_b_d_d.story
